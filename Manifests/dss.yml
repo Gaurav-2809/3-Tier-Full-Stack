@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
         - name: yelp-camp-container
-          image: adijaiswal/campa:latest
+          image: gaurav2809/campa:latest
           ports:
             - containerPort: 3000
           env:
